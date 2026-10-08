@@ -1,16 +1,55 @@
-<h1 align="center">Hi 👋, I'm HusnainAli</h1>
-<h3 align="center">Dedicated Computer Science student with a passion for creating innovative software solutions, leveraging a strong foundation in programming, problem-solving.</h3>
+<h1 align="center">Hi 👋, I'm Husnain Ali</h1>
+<h3 align="center">Full-Stack Developer · React/TypeScript · Python/Django · AI/LLM Systems</h3>
+<p align="center">M.Sc. Computer Science student at the University of Passau 🇩🇪 · Open to Werkstudent roles</p>
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-sage-theta-38.vercel.app/index.html](https://my-portfolio-sage-theta-38.vercel.app/index.html)
+<p align="center">
+  <a href="https://husnainali.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-husnainali.vercel.app-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://linkedin.com/in/husnain-ali-fullstack"><img src="https://img.shields.io/badge/LinkedIn-Husnain%20Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:husnainali2721@gmail.com"><img src="https://img.shields.io/badge/Email-husnainali2721%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-- 📫 How to reach me **husnainali2721@gmail.com**
+---
 
-- ⚡ Fun fact **I have found of Content Creation along Coding Passion**
+### 👨‍💻 About me
 
+- 🔭 Built production features for **[Stammer.ai](https://stammer.ai)**, a multi-tenant AI SaaS product, at EvolveEdge Technologies (React/TypeScript, Django REST Framework, PostgreSQL, Redis, WebSockets)
+- 🤖 Work on **LLM systems**: model failover across OpenAI, Anthropic and xAI, real-time token streaming, AI agent tools and **MCP connectors** secured with OAuth 2.1
+- 💳 Built **Stripe billing and wallet workflows** with PostgreSQL row locks and idempotency, so customers are never charged twice
+- 🛠️ Previously built OpenAPI-based SDK generation workflows across 7 languages at **APIMatic**
+- 🎓 M.Sc. Computer Science @ University of Passau · B.S. Computer Science @ FAST-NUCES
+- 💼 Open to **Werkstudent** roles in Germany (up to 20 h/week, no sponsorship required)
+- 🗣️ English (fluent) · German (A1, learning)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🧰 Tech stack
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=husnain-allly&show_icons=true&locale=en&layout=compact" alt="husnain-allly" /></p>
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,materialui,html,css" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=husnain-allly&" alt="husnain-allly" /></p>
+**Backend & APIs**  
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs,express" />
+
+**Data & DevOps**  
+<img src="https://skillicons.dev/icons?i=postgres,redis,mongodb,firebase,aws,nginx,githubactions,git" />
+
+**Also:** OpenAI · Anthropic · xAI · MCP · Pinecone · WebSockets · OAuth 2.0/2.1 · Stripe · C/C++ · OpenMP
+
+### 🚀 Featured projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**SpecBot**](https://github.com/Husnain-allly/SpecBot) | Final-year project: turns sequential C/C++ code into parallel OpenMP code using parsing and dependency analysis | C/C++, OpenMP, Python, Flask |
+| [**Al Noor EdTech**](https://alnooredtech.com/) | Full-stack product I built and deployed alone, with authentication, admin workflows and checkout via PayPal, Safepay and cash on delivery | React, Node/Express, Firebase |
+| [**Auto Timetable Generation**](https://github.com/Husnain-allly/Auto-Timetable-Generation) | Genetic algorithm that builds clash-free weekly timetables | Python, Docker |
+
+➡️ More on my [portfolio](https://husnainali.vercel.app/).
+
+### 📊 GitHub stats
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=Husnain-allly&layout=compact&hide_border=true" alt="Top languages"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=Husnain-allly&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
+<p align="center">⚡ When I'm not coding, I'm making content or cooking.</p>
